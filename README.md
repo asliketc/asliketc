@@ -28,16 +28,9 @@ Welcome to my GitHub bio, where I blend the art of music with the science of tec
 - **Music Theory:**  
 Modal Counterpoint, Form, Harmonic Analysis, and Voice Leading.  
 - **Piano Performance:**  
-Avid performer with a passion for Chopin, Liszt, and Rachmaninoff, bringing classical masterpieces to life.
+ Immersed in the world of romantic and post-romantic piano music.
 
 I thrive on merging these worlds—using tech to analyze, create, and innovate musically, and using musical creativity to inspire fresh software solutions.
-
-
-## 🌍 Languages
-- **Turkish:** Native  
-- **English:** Full Professional Proficiency  
-- **Russian:** Beginner  
-- **German:** Beginner
 
 
 ## 🚀 Let’s Connect!
